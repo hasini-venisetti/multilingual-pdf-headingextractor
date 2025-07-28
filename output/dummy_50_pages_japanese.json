@@ -1,0 +1,505 @@
+{
+  "title": "第1章: 機械学習の原則 (Chapter 1: ML Principles)",
+  "outline": [
+    {
+      "level": "H2",
+      "text": "第1章: 機械学習の原則 (Chapter 1: ML Principles)",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "セクション1.1: データ統合 (Section 1.1: Data Integration)",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "第2章: 機械学習の原則 (Chapter 2: ML Principles)",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "セクション2.1: データ統合 (Section 2.1: Data Integration)",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "第3章: 機械学習の原則 (Chapter 3: ML Principles)",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "セクション3.1: データ統合 (Section 3.1: Data Integration)",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "第4章: 機械学習の原則 (Chapter 4: ML Principles)",
+      "page": 4
+    },
+    {
+      "level": "H3",
+      "text": "セクション4.1: データ統合 (Section 4.1: Data Integration)",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "第5章: 機械学習の原則 (Chapter 5: ML Principles)",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "セクション5.1: データ統合 (Section 5.1: Data Integration)",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "第6章: 機械学習の原則 (Chapter 6: ML Principles)",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "セクション6.1: データ統合 (Section 6.1: Data Integration)",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "第7章: 機械学習の原則 (Chapter 7: ML Principles)",
+      "page": 7
+    },
+    {
+      "level": "H3",
+      "text": "セクション7.1: データ統合 (Section 7.1: Data Integration)",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "第8章: 機械学習の原則 (Chapter 8: ML Principles)",
+      "page": 8
+    },
+    {
+      "level": "H3",
+      "text": "セクション8.1: データ統合 (Section 8.1: Data Integration)",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "第9章: 機械学習の原則 (Chapter 9: ML Principles)",
+      "page": 9
+    },
+    {
+      "level": "H3",
+      "text": "セクション9.1: データ統合 (Section 9.1: Data Integration)",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "第10章: 機械学習の原則 (Chapter 10: ML Principles)",
+      "page": 10
+    },
+    {
+      "level": "H3",
+      "text": "セクション10.1: データ統合 (Section 10.1: Data Integration)",
+      "page": 10
+    },
+    {
+      "level": "H2",
+      "text": "第11章: 機械学習の原則 (Chapter 11: ML Principles)",
+      "page": 11
+    },
+    {
+      "level": "H3",
+      "text": "セクション11.1: データ統合 (Section 11.1: Data Integration)",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "第12章: 機械学習の原則 (Chapter 12: ML Principles)",
+      "page": 12
+    },
+    {
+      "level": "H3",
+      "text": "セクション12.1: データ統合 (Section 12.1: Data Integration)",
+      "page": 12
+    },
+    {
+      "level": "H2",
+      "text": "第13章: 機械学習の原則 (Chapter 13: ML Principles)",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "セクション13.1: データ統合 (Section 13.1: Data Integration)",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "第14章: 機械学習の原則 (Chapter 14: ML Principles)",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "セクション14.1: データ統合 (Section 14.1: Data Integration)",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "第15章: 機械学習の原則 (Chapter 15: ML Principles)",
+      "page": 15
+    },
+    {
+      "level": "H3",
+      "text": "セクション15.1: データ統合 (Section 15.1: Data Integration)",
+      "page": 15
+    },
+    {
+      "level": "H2",
+      "text": "第16章: 機械学習の原則 (Chapter 16: ML Principles)",
+      "page": 16
+    },
+    {
+      "level": "H3",
+      "text": "セクション16.1: データ統合 (Section 16.1: Data Integration)",
+      "page": 16
+    },
+    {
+      "level": "H2",
+      "text": "第17章: 機械学習の原則 (Chapter 17: ML Principles)",
+      "page": 17
+    },
+    {
+      "level": "H3",
+      "text": "セクション17.1: データ統合 (Section 17.1: Data Integration)",
+      "page": 17
+    },
+    {
+      "level": "H2",
+      "text": "第18章: 機械学習の原則 (Chapter 18: ML Principles)",
+      "page": 18
+    },
+    {
+      "level": "H3",
+      "text": "セクション18.1: データ統合 (Section 18.1: Data Integration)",
+      "page": 18
+    },
+    {
+      "level": "H2",
+      "text": "第19章: 機械学習の原則 (Chapter 19: ML Principles)",
+      "page": 19
+    },
+    {
+      "level": "H3",
+      "text": "セクション19.1: データ統合 (Section 19.1: Data Integration)",
+      "page": 19
+    },
+    {
+      "level": "H2",
+      "text": "第20章: 機械学習の原則 (Chapter 20: ML Principles)",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "セクション20.1: データ統合 (Section 20.1: Data Integration)",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "第21章: 機械学習の原則 (Chapter 21: ML Principles)",
+      "page": 21
+    },
+    {
+      "level": "H3",
+      "text": "セクション21.1: データ統合 (Section 21.1: Data Integration)",
+      "page": 21
+    },
+    {
+      "level": "H2",
+      "text": "第22章: 機械学習の原則 (Chapter 22: ML Principles)",
+      "page": 22
+    },
+    {
+      "level": "H3",
+      "text": "セクション22.1: データ統合 (Section 22.1: Data Integration)",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "第23章: 機械学習の原則 (Chapter 23: ML Principles)",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "セクション23.1: データ統合 (Section 23.1: Data Integration)",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "第24章: 機械学習の原則 (Chapter 24: ML Principles)",
+      "page": 24
+    },
+    {
+      "level": "H3",
+      "text": "セクション24.1: データ統合 (Section 24.1: Data Integration)",
+      "page": 24
+    },
+    {
+      "level": "H2",
+      "text": "第25章: 機械学習の原則 (Chapter 25: ML Principles)",
+      "page": 25
+    },
+    {
+      "level": "H3",
+      "text": "セクション25.1: データ統合 (Section 25.1: Data Integration)",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "第26章: 機械学習の原則 (Chapter 26: ML Principles)",
+      "page": 26
+    },
+    {
+      "level": "H3",
+      "text": "セクション26.1: データ統合 (Section 26.1: Data Integration)",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "第27章: 機械学習の原則 (Chapter 27: ML Principles)",
+      "page": 27
+    },
+    {
+      "level": "H3",
+      "text": "セクション27.1: データ統合 (Section 27.1: Data Integration)",
+      "page": 27
+    },
+    {
+      "level": "H2",
+      "text": "第28章: 機械学習の原則 (Chapter 28: ML Principles)",
+      "page": 28
+    },
+    {
+      "level": "H3",
+      "text": "セクション28.1: データ統合 (Section 28.1: Data Integration)",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "第29章: 機械学習の原則 (Chapter 29: ML Principles)",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "セクション29.1: データ統合 (Section 29.1: Data Integration)",
+      "page": 29
+    },
+    {
+      "level": "H2",
+      "text": "第30章: 機械学習の原則 (Chapter 30: ML Principles)",
+      "page": 30
+    },
+    {
+      "level": "H3",
+      "text": "セクション30.1: データ統合 (Section 30.1: Data Integration)",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "第31章: 機械学習の原則 (Chapter 31: ML Principles)",
+      "page": 31
+    },
+    {
+      "level": "H3",
+      "text": "セクション31.1: データ統合 (Section 31.1: Data Integration)",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "第32章: 機械学習の原則 (Chapter 32: ML Principles)",
+      "page": 32
+    },
+    {
+      "level": "H3",
+      "text": "セクション32.1: データ統合 (Section 32.1: Data Integration)",
+      "page": 32
+    },
+    {
+      "level": "H2",
+      "text": "第33章: 機械学習の原則 (Chapter 33: ML Principles)",
+      "page": 33
+    },
+    {
+      "level": "H3",
+      "text": "セクション33.1: データ統合 (Section 33.1: Data Integration)",
+      "page": 33
+    },
+    {
+      "level": "H2",
+      "text": "第34章: 機械学習の原則 (Chapter 34: ML Principles)",
+      "page": 34
+    },
+    {
+      "level": "H3",
+      "text": "セクション34.1: データ統合 (Section 34.1: Data Integration)",
+      "page": 34
+    },
+    {
+      "level": "H2",
+      "text": "第35章: 機械学習の原則 (Chapter 35: ML Principles)",
+      "page": 35
+    },
+    {
+      "level": "H3",
+      "text": "セクション35.1: データ統合 (Section 35.1: Data Integration)",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "第36章: 機械学習の原則 (Chapter 36: ML Principles)",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "セクション36.1: データ統合 (Section 36.1: Data Integration)",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "第37章: 機械学習の原則 (Chapter 37: ML Principles)",
+      "page": 37
+    },
+    {
+      "level": "H3",
+      "text": "セクション37.1: データ統合 (Section 37.1: Data Integration)",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "第38章: 機械学習の原則 (Chapter 38: ML Principles)",
+      "page": 38
+    },
+    {
+      "level": "H3",
+      "text": "セクション38.1: データ統合 (Section 38.1: Data Integration)",
+      "page": 38
+    },
+    {
+      "level": "H2",
+      "text": "第39章: 機械学習の原則 (Chapter 39: ML Principles)",
+      "page": 39
+    },
+    {
+      "level": "H3",
+      "text": "セクション39.1: データ統合 (Section 39.1: Data Integration)",
+      "page": 39
+    },
+    {
+      "level": "H2",
+      "text": "第40章: 機械学習の原則 (Chapter 40: ML Principles)",
+      "page": 40
+    },
+    {
+      "level": "H3",
+      "text": "セクション40.1: データ統合 (Section 40.1: Data Integration)",
+      "page": 40
+    },
+    {
+      "level": "H2",
+      "text": "第41章: 機械学習の原則 (Chapter 41: ML Principles)",
+      "page": 41
+    },
+    {
+      "level": "H3",
+      "text": "セクション41.1: データ統合 (Section 41.1: Data Integration)",
+      "page": 41
+    },
+    {
+      "level": "H2",
+      "text": "第42章: 機械学習の原則 (Chapter 42: ML Principles)",
+      "page": 42
+    },
+    {
+      "level": "H3",
+      "text": "セクション42.1: データ統合 (Section 42.1: Data Integration)",
+      "page": 42
+    },
+    {
+      "level": "H2",
+      "text": "第43章: 機械学習の原則 (Chapter 43: ML Principles)",
+      "page": 43
+    },
+    {
+      "level": "H3",
+      "text": "セクション43.1: データ統合 (Section 43.1: Data Integration)",
+      "page": 43
+    },
+    {
+      "level": "H2",
+      "text": "第44章: 機械学習の原則 (Chapter 44: ML Principles)",
+      "page": 44
+    },
+    {
+      "level": "H3",
+      "text": "セクション44.1: データ統合 (Section 44.1: Data Integration)",
+      "page": 44
+    },
+    {
+      "level": "H2",
+      "text": "第45章: 機械学習の原則 (Chapter 45: ML Principles)",
+      "page": 45
+    },
+    {
+      "level": "H3",
+      "text": "セクション45.1: データ統合 (Section 45.1: Data Integration)",
+      "page": 45
+    },
+    {
+      "level": "H2",
+      "text": "第46章: 機械学習の原則 (Chapter 46: ML Principles)",
+      "page": 46
+    },
+    {
+      "level": "H3",
+      "text": "セクション46.1: データ統合 (Section 46.1: Data Integration)",
+      "page": 46
+    },
+    {
+      "level": "H2",
+      "text": "第47章: 機械学習の原則 (Chapter 47: ML Principles)",
+      "page": 47
+    },
+    {
+      "level": "H3",
+      "text": "セクション47.1: データ統合 (Section 47.1: Data Integration)",
+      "page": 47
+    },
+    {
+      "level": "H2",
+      "text": "第48章: 機械学習の原則 (Chapter 48: ML Principles)",
+      "page": 48
+    },
+    {
+      "level": "H3",
+      "text": "セクション48.1: データ統合 (Section 48.1: Data Integration)",
+      "page": 48
+    },
+    {
+      "level": "H2",
+      "text": "第49章: 機械学習の原則 (Chapter 49: ML Principles)",
+      "page": 49
+    },
+    {
+      "level": "H3",
+      "text": "セクション49.1: データ統合 (Section 49.1: Data Integration)",
+      "page": 49
+    },
+    {
+      "level": "H2",
+      "text": "第50章: 機械学習の原則 (Chapter 50: ML Principles)",
+      "page": 50
+    },
+    {
+      "level": "H3",
+      "text": "セクション50.1: データ統合 (Section 50.1: Data Integration)",
+      "page": 50
+    }
+  ]
+}
